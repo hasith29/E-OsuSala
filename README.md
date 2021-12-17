@@ -1,5 +1,15 @@
 # E-OsuSala
 created to cater quality pharmaceuticals at an affordable price
+
+![home](https://user-images.githubusercontent.com/87446285/146570910-0bbe4d45-8001-4961-a969-cce47608225e.png)
+![productCatalog](https://user-images.githubusercontent.com/87446285/146570970-32bc8dbf-a668-4f75-ab81-fe6bf94ceda9.png)
+![supplier](https://user-images.githubusercontent.com/87446285/146571020-996a7331-3383-4374-924d-6b953ef3c7f2.png)
+![login](https://user-images.githubusercontent.com/87446285/146571152-7ab05cf4-32d5-40de-92c7-b773a57299aa.png)
+![QualityEvaluation](https://user-images.githubusercontent.com/87446285/146571077-0d51b1b2-99c9-4505-8833-f17426681c12.png)
+![Reports](https://user-images.githubusercontent.com/87446285/146571082-236ecaee-5659-499e-86f1-535a2f142e2c.png)
+![stockDetails](https://user-images.githubusercontent.com/87446285/146571084-41295daa-bcac-4af2-8e0b-60395cb002a0.png)
+![PriceEvaluation](https://user-images.githubusercontent.com/87446285/146571087-f5549323-9739-4dab-8e87-cc6d018e2be9.png)
+
 Access
 Access to GitHub repository:
 https://github.com/hasith29/E-OsuSala.git
@@ -34,3 +44,4 @@ In the current Sri Lankan context and in even at the past there was not a system
 
 ### Database
 •	The database file is included as “pharm_db.sql”
+
