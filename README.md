@@ -45,3 +45,4 @@ In the current Sri Lankan context and in even at the past there was not a system
 ### Database
 •	The database file is included as “pharm_db.sql”
 
+index.php file and the database file is not included in this set of files
