@@ -1,7 +1,7 @@
 # E-OsuSala
 created to cater quality pharmaceuticals at an affordable price
 
-![home](https://user-images.githubusercontent.com/87446285/146570910-0bbe4d45-8001-4961-a969-cce47608225e.png | width=100)
+![home](https://user-images.githubusercontent.com/87446285/146570910-0bbe4d45-8001-4961-a969-cce47608225e.png = 250x250)
 ![productCatalog](https://user-images.githubusercontent.com/87446285/146570970-32bc8dbf-a668-4f75-ab81-fe6bf94ceda9.png)
 ![supplier](https://user-images.githubusercontent.com/87446285/146571020-996a7331-3383-4374-924d-6b953ef3c7f2.png)
 ![login](https://user-images.githubusercontent.com/87446285/146571152-7ab05cf4-32d5-40de-92c7-b773a57299aa.png)
